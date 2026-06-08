@@ -1,0 +1,1326 @@
+[
+  {
+    "id": "572647935951b619008f6eca",
+    "question": "How old are the gravestones that reference the plague?",
+    "gold": [
+      "dating to 1338\u201339",
+      "1338\u201339",
+      "1338\u201339"
+    ],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "JSON parse failed; heuristic score used.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "5acf782877cf76001a684eb4",
+    "question": "Under which field did the world's first synthetically produced nuclear reaction occur?",
+    "gold": [],
+    "generated_answer": "Physics",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.079
+  },
+  {
+    "id": "572944e03f37b319004781e2",
+    "question": "When was the IPCC Third Assessment Report published?",
+    "gold": [
+      "2001",
+      "2001",
+      "2001"
+    ],
+    "generated_answer": "1998",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "JSON parse failed; heuristic score used.",
+    "relevance_score": 0.1279
+  },
+  {
+    "id": "572a1ba46aef05140015528f",
+    "question": "How is unregistered property held in informal form?",
+    "gold": [
+      "through various associations and other arrangements",
+      "through various associations and other arrangements",
+      "through various associations"
+    ],
+    "generated_answer": "Through various associations and other arrangements.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "Through various associations and other arrangements.",
+    "relevance_score": 0.2543
+  },
+  {
+    "id": "572658435951b619008f7026",
+    "question": "What is the main judicial body of the EU?",
+    "gold": [
+      "Court of Justice of the European Union (CJEU)",
+      "the Court of Justice of the European Union (CJEU)",
+      "the Court of Justice of the European Union (CJEU)",
+      "the Court of Justice of the European Union (CJEU)"
+    ],
+    "generated_answer": "The Court of Justice of the European Union (CJEU)",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 1.0,
+    "faithfulness_reasoning": "The Court of Justice of the European Union (CJEU) is the main judicial body, within which there is a higher European Court of Justice (commonly abbreviated as ECJ) that deals with cases that contain more complex and nuanced legal issues.",
+    "relevance_score": 0.6285
+  },
+  {
+    "id": "5ad28a54d7d075001a4299a6",
+    "question": "What is the least important natural region of the Netherlands?",
+    "gold": [],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The Rhine-Meuse Delta is a region, not a river delta.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "57300bf504bcaa1900d7708a",
+    "question": "What bridge did the Germans fail to demolish?",
+    "gold": [
+      "Ludendorff Bridge",
+      "Ludendorff Bridge",
+      "Ludendorff Bridge"
+    ],
+    "generated_answer": "The Ludendorff Bridge at Remagen.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "The Ludendorff Bridge at Remagen.",
+    "relevance_score": 0.4653
+  },
+  {
+    "id": "572647935951b619008f6ecd",
+    "question": "How many did this epidemic in China kill?",
+    "gold": [
+      "an estimated 25 million",
+      "25 million",
+      "25 million"
+    ],
+    "generated_answer": "25 million",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.5,
+    "faithfulness_reasoning": "The plague is a zoonotic disease, meaning it can be transmitted from animals to humans, and the 1338\u201339 inscription on the graves in Kyrgyzstan suggests that the plague was present in the region, but the exact number of deaths is unknown.",
+    "relevance_score": 0.2402
+  },
+  {
+    "id": "5a2c07d5bfd06b001a5ae980",
+    "question": "What has Sky UK Limited never been involved with?",
+    "gold": [],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "5725d34aec44d21400f3d63c",
+    "question": "In what year did BankAmericard change its name?",
+    "gold": [
+      "1976",
+      "1976",
+      "1976"
+    ],
+    "generated_answer": "1976",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The answer is not faithful to the context. The context mentions BankAmericard, which is a credit card, but the answer is 1976, which is the year the BankAmericard was launched.",
+    "relevance_score": 0.2257
+  },
+  {
+    "id": "5a7b11bb21c2de001afe9d45",
+    "question": "What area is the Tower District similar to in architecture?",
+    "gold": [],
+    "generated_answer": "None, as the Tower District is known for its early twentieth century homes, many of which have been restored in recent decades.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The ANSWER is not present in the CONTEXT.",
+    "relevance_score": 0.5826
+  },
+  {
+    "id": "572a03a06aef0514001551ac",
+    "question": "If one computer model turns out correct, by what year would there be a nearly complete loss of rainforest in the Amazon basin?",
+    "gold": [
+      "2100",
+      "by 2100",
+      "2100"
+    ],
+    "generated_answer": "2100",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The answer is not faithful to the context. The context mentions a loss of rainforest cover by 2100, but the answer suggests a loss of rainforest cover by 2100 is not possible.",
+    "relevance_score": 0.2222
+  },
+  {
+    "id": "57265a58dd62a815002e8270",
+    "question": "Name a type of Toyota compact trucks?",
+    "gold": [
+      "Toyota Hilux",
+      "Hilux",
+      "Hilux",
+      "Toyota Hilux",
+      "Hilux"
+    ],
+    "generated_answer": "Toyota Hilux",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "The introduction of compact trucks was a strategic move by the Japanese automakers to expand their market share in the US, and the Toyota Hilux was a key part of this strategy.",
+    "relevance_score": 0.519
+  },
+  {
+    "id": "5ad26c15d7d075001a42937d",
+    "question": "Which physics were not contradicted by observations and logic?",
+    "gold": [],
+    "generated_answer": "Aristotelian physics Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "Aristotelian physics is not faithful to the context.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "5ad2909bd7d075001a429a9e",
+    "question": "What is one aspect of the hydrography of the former delta characterized by?",
+    "gold": [],
+    "generated_answer": "The presence of disconnected arms (Hollandse IJssel, Linge, Vecht, etc.) and smaller rivers and streams.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The presence of disconnected arms (Hollandse IJssel, Linge, Vecht, etc.) and smaller rivers and streams.",
+    "relevance_score": 0.4004
+  },
+  {
+    "id": "5a25bd5cef59cd001a623cc4",
+    "question": "What is Janjaap Ruijssenaar going to build in 2013?",
+    "gold": [],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "5a63969068151a001a9223ab",
+    "question": "Of what mountain system are the Omeo Alps a part?",
+    "gold": [],
+    "generated_answer": "Great Dividing Range",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.1681
+  },
+  {
+    "id": "57339eb9d058e614000b5ef9",
+    "question": "What does the National Museum boast having from Adolf Hitler's private collection?",
+    "gold": [
+      "some paintings",
+      "paintings",
+      "paintings"
+    ],
+    "generated_answer": "None, as the National Museum does not have any paintings from Adolf Hitler's private collection.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The National Museum does not have any paintings from Adolf Hitler's private collection.",
+    "relevance_score": 0.6096
+  },
+  {
+    "id": "57274beff1498d1400e8f5e5",
+    "question": "Along with the CISCE and NENBSE, what is a notable Examination Board in multiple Indian states?",
+    "gold": [
+      "CBSE",
+      "CBSE",
+      "CBSE"
+    ],
+    "generated_answer": "CBSE",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.5,
+    "faithfulness_reasoning": "For the purpose of this definition, only receipt of financial aid is considered, not land purchased from the government at a subsidized rate.",
+    "relevance_score": 0.414
+  },
+  {
+    "id": "5733d249d058e614000b6333",
+    "question": "Where was France concentraing efforts?",
+    "gold": [
+      "against Prussia and its allies in the European theatre of the war.",
+      "Prussia",
+      "against Prussia and its allies",
+      "European theatre",
+      "Prussia"
+    ],
+    "generated_answer": "Against Prussia and its allies in the European theatre of the war.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "The British government's decision to increase military resources in the colonies was a response to the French threat, and the British were willing to risk large convoys to aid Prussia and its allies in the European theatre of the war.",
+    "relevance_score": 0.3967
+  },
+  {
+    "id": "5ad10e0f645df0001a2d0b72",
+    "question": "Who applies American Union law?",
+    "gold": [],
+    "generated_answer": "The courts of member states and the Court of Justice of the European Union.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The courts of member states and the Court of Justice of the European Union.",
+    "relevance_score": 0.3818
+  },
+  {
+    "id": "5ad2454cd7d075001a428a94",
+    "question": "How many French Catholics died after the Huguenots retaliated?",
+    "gold": [],
+    "generated_answer": "5,000 to 30,000",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The context does not mention the St. Bartholomew's Day massacre. The answer is not faithful to the context.",
+    "relevance_score": 0.1368
+  },
+  {
+    "id": "57266c015951b619008f723b",
+    "question": "When dating rocks, what is the absolute isotopic date applied to?",
+    "gold": [
+      "fossil sequences",
+      "fossil sequences",
+      "fossil sequences",
+      "fossil sequences"
+    ],
+    "generated_answer": "rock units",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "The answer is faithful to the context, as it accurately describes the significant advancement in geological science facilitated by the use of radioactive isotopes and other methods.",
+    "relevance_score": 0.2863
+  },
+  {
+    "id": "5acf879f77cf76001a68511e",
+    "question": "Planned to occupy the Chicago Business Booth, how much is the Milton Friedman Institute estimated to cost?",
+    "gold": [],
+    "generated_answer": "$200 million.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.3866
+  },
+  {
+    "id": "572686ac5951b619008f75a9",
+    "question": "Who produced the first geological map of the U.S.?",
+    "gold": [
+      "William Maclure",
+      "William Maclure",
+      "William Maclure"
+    ],
+    "generated_answer": "William Maclure.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 1.0,
+    "faithfulness_reasoning": "The first geological map of the U.S. was produced in 1809 by William Maclure.",
+    "relevance_score": 0.167
+  },
+  {
+    "id": "572fbfa504bcaa1900d76c73",
+    "question": "Which month is the first in the year Parliament takes a two week vacation?",
+    "gold": [
+      "April",
+      "April",
+      "April"
+    ],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The ANSWER is not faithful to the CONTEXT.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "5726f7715951b619008f838d",
+    "question": "Why is majority rule used?",
+    "gold": [
+      "the high risk of a conflict of interest and/or the avoidance of absolute powers",
+      "high risk of a conflict of interest",
+      "high risk of a conflict of interest and/or the avoidance of absolute powers"
+    ],
+    "generated_answer": "The high risk of a conflict of interest and/or the avoidance of absolute powers. Otherwise, the physician has a financial self-interest in \"diagnosing\" as many conditions as possible, and in exaggerating their seriousness, because he or she can then sell more medications to the patient. This system reflects much similarity to the checks and balances system of the U.S. and many other governments.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "The high risk of a conflict of interest and/or the avoidance of absolute powers. Otherwise, the physician has a financial self-interest in 'diagnosing' as many conditions as possible, and in exaggerating their seriousness, because he or she can then sell more medications to the patient.",
+    "relevance_score": 0.2097
+  },
+  {
+    "id": "5ad2424cd7d075001a42898b",
+    "question": "What religion was Hugues Capet?",
+    "gold": [],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "5ad3af11604f3c001a3fec65",
+    "question": "What language replaced the Gallo-Romance language?",
+    "gold": [],
+    "generated_answer": "Norman language.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.4516
+  },
+  {
+    "id": "5a8940ba3b2508001a72a55d",
+    "question": "According to Gluga's theorem, what period does 1/p always have assuming p is a prime that is not 2 or 5?",
+    "gold": [],
+    "generated_answer": "p \u2212 1",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.3079
+  },
+  {
+    "id": "5725b5a689a1e219009abd28",
+    "question": "Why did the European nations and Japan separated themselves from United States during the crisis?",
+    "gold": [
+      "to avoid being targeted by the boycott",
+      "to avoid being targeted by the boycott",
+      "to avoid being targeted by the boycott",
+      "to avoid being targeted by the boycott",
+      "to avoid being targeted by the boycott"
+    ],
+    "generated_answer": "They sought to avoid being targeted by the boycott.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.5,
+    "faithfulness_reasoning": "The Nixon Administration began multilateral negotiations to address the crisis.",
+    "relevance_score": 0.1931
+  },
+  {
+    "id": "5737534ec3c5551400e51eae",
+    "question": "What is the equality of forces between two objects exerting force on each other??",
+    "gold": [
+      "magnitude",
+      "action-reaction",
+      "the action-reaction law",
+      "equal in magnitude"
+    ],
+    "generated_answer": "F and \u2212F are equal in magnitude and opposite in direction.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "The third law of motion states that every action has an equal and opposite reaction, which means that the forces exerted by the two bodies are equal in magnitude and opposite in direction.",
+    "relevance_score": 0.3737
+  },
+  {
+    "id": "5ad40a0e604f3c001a3fff7b",
+    "question": " What was the Yuan's official state religion?",
+    "gold": [],
+    "generated_answer": "Tibetan Buddhism.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "There were many religions practiced during the Yuan dynasty, such as Buddhism, Islam, and Christianity. The establishment of the Yuan dynasty had dramatically increased the number of Muslims in China. However, unlike the western khanates, the Yuan dynasty never converted to Islam. Instead, Kublai Khan, the founder of the Yuan dynasty, favored Buddhism, especially the Tibetan variants.",
+    "relevance_score": 0.3951
+  },
+  {
+    "id": "5728fb002ca10214002dab6e",
+    "question": "The flushing action of what expels pathogens from the eyes?",
+    "gold": [
+      "tears",
+      "tears",
+      "tears"
+    ],
+    "generated_answer": "Tears and urine.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "The waxy cuticle of many leaves, the exoskeleton of insects, the shells and membranes of externally deposited eggs, and skin are examples of mechanical barriers that are the first line of defense against infection.",
+    "relevance_score": 0.3598
+  },
+  {
+    "id": "5729f9953f37b31900478620",
+    "question": "Female sex hormones are immunostimulators of which immune responses?",
+    "gold": [
+      "adaptive and innate immune responses",
+      "both adaptive and innate",
+      "adaptive and innate immune responses"
+    ],
+    "generated_answer": "Both adaptive and innate immune responses.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "Both adaptive and innate immune responses.",
+    "relevance_score": 0.4393
+  },
+  {
+    "id": "5ad40a72604f3c001a3fffa9",
+    "question": "What did Guo Shoujing not do for calendars?",
+    "gold": [],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "572a0bfaaf94a219006aa779",
+    "question": "Many changes in the vegetation of the amazon rainforest took place since the  Last Glacial Maximum, which was how many years ago?",
+    "gold": [
+      "21,000",
+      "21,000",
+      "21,000"
+    ],
+    "generated_answer": "21,000 years ago.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "The evidence from Amazon rainforest vegetation changes over the last 21,000 years is consistent with the Last Glacial Maximum (LGM) and subsequent deglaciation.",
+    "relevance_score": 0.2553
+  },
+  {
+    "id": "5737aafd1c456719005744fc",
+    "question": "What is the kilogram-force sometimes reffered to as?",
+    "gold": [
+      "kilopond",
+      "kilopond",
+      "kilopond",
+      "kilopond",
+      "kilopond"
+    ],
+    "generated_answer": "metric slug (sometimes mug or hyl)",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "JSON parse failed; heuristic score used.",
+    "relevance_score": 0.1762
+  },
+  {
+    "id": "570d29c2b3d812140066d4c0",
+    "question": "How many Victorians are Buddhist?",
+    "gold": [
+      "168,637",
+      "168,637",
+      "168,637"
+    ],
+    "generated_answer": "168,637",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "The answer is faithful to the context because it accurately reflects the demographics of Victoria, including the large number of Buddhists and Muslims.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "572827fc3acd2414000df5bd",
+    "question": "Which gender is more populous across all groups in Jacksonville?",
+    "gold": [
+      "females",
+      "females",
+      "females"
+    ],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The ANSWER is not faithful to the CONTEXT.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "572691545951b619008f76e5",
+    "question": "Who are the un-elected subordinates of member state governments?",
+    "gold": [
+      "Commissioners",
+      "Commissioners",
+      "Commissioners",
+      "Commissioners"
+    ],
+    "generated_answer": "The European Commission.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 1.0,
+    "faithfulness_reasoning": "The European Commission is the main executive body of the European Union.",
+    "relevance_score": 0.3249
+  },
+  {
+    "id": "5ad1556e645df0001a2d17da",
+    "question": "Which two importers did not claim that under French competition law, they were prevented from selling Picon beer under wholesale price?",
+    "gold": [],
+    "generated_answer": "Keck and Mithouard.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The Court of Justice developed a presumption that 'selling arrangements' would be presumed to not fall into TFEU article 34, if they applied equally to all sellers, and affected them in the same manner in fact.",
+    "relevance_score": 0.1128
+  },
+  {
+    "id": "5a38b468a4b263001a8c18b1",
+    "question": "How much did Saudi Arabia spend on Western demand for oil?",
+    "gold": [],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The question is unanswerable due to lack of context.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "5ad3e83e604f3c001a3ff63e",
+    "question": "What is a notable application of jet engines today?",
+    "gold": [],
+    "generated_answer": "None, as the question does not provide any context that would suggest jet engines are used in this application.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The question does not provide any context that would suggest jet engines are used in this application.",
+    "relevance_score": 0.707
+  },
+  {
+    "id": "571ce5055efbb31900334e2d",
+    "question": "What si the comparison to sea level with the oxygen level in space suits?",
+    "gold": [
+      "only marginally more",
+      "marginally more than normal",
+      "marginally more",
+      "marginally more",
+      "only marginally more"
+    ],
+    "generated_answer": "30 kPa (1.4 times normal)",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "The low total pressures used in space applications, such as in some modern space suits, or in early spacecraft such as Apollo, cause no damage due to the low total pressures used.",
+    "relevance_score": 0.247
+  },
+  {
+    "id": "5a38c34ea4b263001a8c190d",
+    "question": "What had Edward Heath told Lord Cromer about taking action in the middle east?",
+    "gold": [],
+    "generated_answer": "He told him that America might consider it could not tolerate a situation in which the U.S. and its allies were at the mercy of a small group of unreasonable countries.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.3307
+  },
+  {
+    "id": "5ad2866ed7d075001a4298e6",
+    "question": "What forces can be modeled using ideal friction strings?",
+    "gold": [],
+    "generated_answer": "None, as the context does not mention ideal friction strings.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The context does not mention ideal friction strings.",
+    "relevance_score": 0.6995
+  },
+  {
+    "id": "5728fb6a1d04691400778ef7",
+    "question": "What is one main reason that civil disobedience is not recognized?",
+    "gold": [
+      "breaking the law for self-gratification",
+      "breaking the law for self-gratification",
+      "it would undermine the law by encouraging general disobedience",
+      "breaking the law for self-gratification"
+    ],
+    "generated_answer": "It undermines the law by encouraging general disobedience.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.5,
+    "faithfulness_reasoning": "Conscientious lawbreakers must be punished.",
+    "relevance_score": 0.5789
+  },
+  {
+    "id": "57302bd0b2c2fd14005689de",
+    "question": "How many people did the Islamic State control the territory of as of March 2015?",
+    "gold": [
+      "ten million",
+      "ten million",
+      "ten million"
+    ],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The Islamic State is a well-known and widely recognized terrorist organization, and its name is not a secret or a mystery. It is a group with a clear ideology and a well-defined structure, and its actions are widely reported and condemned by the international community.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "572861cc4b864d1900164960",
+    "question": "When did the university start having a bachelor's degree program in Cinema & Media studies?",
+    "gold": [
+      "1996",
+      "1996",
+      "1996"
+    ],
+    "generated_answer": "1996",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The ANSWER is not faithful to the CONTEXT. The ANSWER mentions the UChicago Arts program, which is not mentioned in the CONTEXT.",
+    "relevance_score": 0.2662
+  },
+  {
+    "id": "5a2c3ca9bfd06b001a5aea84",
+    "question": "What company has veto over the presence of channels on their EPG?",
+    "gold": [],
+    "generated_answer": "BSkyB",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.1533
+  },
+  {
+    "id": "5726a638dd62a815002e8bf8",
+    "question": "What did article 65 of the ECSC ban?",
+    "gold": [
+      "cartels",
+      "cartels",
+      "cartels"
+    ],
+    "generated_answer": "Cartels.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "The EU Competition law has its origins in the European Coal and Steel Community (ECSC) agreement between France, Italy, Belgium, the Netherlands, Luxembourg and Germany in 1951 following the second World War. The agreement aimed to prevent Germany from re-establishing dominance in the production of coal and steel as members felt that its dominance had contributed to the outbreak of the war.",
+    "relevance_score": 0.1156
+  },
+  {
+    "id": "5ad566375b96ef001a10adcf",
+    "question": "What is the softest problem in C?",
+    "gold": [],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "5ad0394877cf76001a686e56",
+    "question": "What types of collections does desert California have?",
+    "gold": [],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "572759665951b619008f8887",
+    "question": "Who was the opposing party in the Runyon case?",
+    "gold": [
+      "McCrary",
+      "McCrary",
+      "McCrary"
+    ],
+    "generated_answer": "The opposing party was the state of Wisconsin.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.5,
+    "faithfulness_reasoning": "The opposing party was the state of Wisconsin.",
+    "relevance_score": 0.3904
+  },
+  {
+    "id": "5733a6ac4776f41900660f5a",
+    "question": "What did Lempicka represent better than anyone else?",
+    "gold": [
+      "the Art Deco style",
+      "Art Deco style in painting and art",
+      "Art Deco style"
+    ],
+    "generated_answer": "Art Deco style in painting and art.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "She was born Maria G\u00f3rska in Warsaw to wealthy parents and in 1916 married a Polish lawyer Tadeusz \u0141empicki.",
+    "relevance_score": 0.1348
+  },
+  {
+    "id": "57096f37200fba1400367fe7",
+    "question": "Can BSkyB veto the presence of channels on their EPG?",
+    "gold": [
+      "no",
+      "no",
+      "Third-party channels"
+    ],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "JSON parse failed; heuristic score used.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "56de4b5c4396321400ee279a",
+    "question": "Who used the church to unify themselves?",
+    "gold": [
+      "dukes",
+      "the dukes",
+      "dukes"
+    ],
+    "generated_answer": "The dukes.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The dukes.",
+    "relevance_score": 0.1101
+  },
+  {
+    "id": "5a57d364770dc0001aeefdcb",
+    "question": "Where is the Holocene further expanded since it is very short with short epochs?",
+    "gold": [],
+    "generated_answer": "The fourth scale.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The answer does not match the context.",
+    "relevance_score": 0.1672
+  },
+  {
+    "id": "5ad4e4cf5b96ef001a10a58a",
+    "question": "What are antibodies never generated to fight?",
+    "gold": [],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The answer is unanswerable because there is no context to provide a correct response.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "5709686c200fba1400367f7b",
+    "question": "What was the total number of homes Sky announced that had Sky+HD in March of 2012?",
+    "gold": [
+      "4,222,000",
+      "4,222,000",
+      "4,222,000"
+    ],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The answer is unanswerable because it is impossible to determine whether BSkyB was having supply issues with its STB from Thomson.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "5a25e8d5ef59cd001a623d14",
+    "question": "What does the focus on forms of procurement try to prevent?",
+    "gold": [],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "5728284e3acd2414000df5ce",
+    "question": "What did Joseph Haas say in his email?",
+    "gold": [
+      "\"Wise up or die.\"",
+      "Wise up or die",
+      "\"Wise up or die.\"",
+      "Wise up or die",
+      "Wise up or die"
+    ],
+    "generated_answer": "He said, \"Wise up or die.\"",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "Threatening government officials is another classic way of expressing defiance toward the government.",
+    "relevance_score": 0.3002
+  },
+  {
+    "id": "5a8224ea31013a001a335250",
+    "question": "What did Forbes halt the construction of in 2008?",
+    "gold": [],
+    "generated_answer": "The $1.2 billion Allston Science Complex.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.2619
+  },
+  {
+    "id": "5ad3f187604f3c001a3ff870",
+    "question": "When did Richard II flee to Normandy?",
+    "gold": [],
+    "generated_answer": "1013",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.114
+  },
+  {
+    "id": "5a638e4468151a001a92237a",
+    "question": "What percentage of Australia's dairy farms are found in Victoria?",
+    "gold": [],
+    "generated_answer": "60%",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.2666
+  },
+  {
+    "id": "5a668fc9f038b7001ab0bfe8",
+    "question": "Why was the Michigan Educational Research Information Trio formed?",
+    "gold": [],
+    "generated_answer": "The Michigan Educational Research Information Triad was formed to explore computer networking between three of Michigan's public universities as a means to help the state's educational and economic development.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.6397
+  },
+  {
+    "id": "57274e145951b619008f87ea",
+    "question": "In Nepalese private schools, what is the primary language of instruction?",
+    "gold": [
+      "English",
+      "English",
+      "English"
+    ],
+    "generated_answer": "English",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "The context clearly distinguishes between private and public schools, and the answer accurately reflects this distinction.",
+    "relevance_score": 0.349
+  },
+  {
+    "id": "572a005f1d046914007796bb",
+    "question": "What happened to the rate of deforestation in the Amazon region of Brazil between 2004 and 2014?",
+    "gold": [
+      "deforestation has declined",
+      "declined significantly",
+      "declined significantly"
+    ],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "JSON parse failed; heuristic score used.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "5a2eccc9a83784001a7d24a2",
+    "question": "Who came up with the term Black Death?",
+    "gold": [],
+    "generated_answer": "J. F. D. Shrewsbury.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.063
+  },
+  {
+    "id": "57261dab38643c19005ad037",
+    "question": "How much did Saudi Arabia spend on spreading Wahhabism?",
+    "gold": [
+      "over 100 billion dollars",
+      "over 100 billion dollars",
+      "over 100 billion dollars",
+      "over 100 billion dollars",
+      "100 billion dollars"
+    ],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The ANSWER is unanswerable because it is a non-sequitur.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "572a0b0b6aef0514001551f8",
+    "question": "What is a chemical secreted by tumors that suppresses the immune response?",
+    "gold": [
+      "cytokine TGF-\u03b2",
+      "cytokine TGF-\u03b2",
+      "cytokine TGF-\u03b2"
+    ],
+    "generated_answer": "TGF-\u03b2.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.5,
+    "faithfulness_reasoning": "The answer is faithful to the context, but the reasoning is incomplete.",
+    "relevance_score": 0.3156
+  },
+  {
+    "id": "5ad40955604f3c001a3fff2f",
+    "question": " What was Tugh's Japanese-style name?",
+    "gold": [],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "573005b9947a6a140053cf6d",
+    "question": "What happened to the credibility of secular politics as a result of the Six-Day War?",
+    "gold": [
+      "A steep and steady decline",
+      "A steep and steady decline",
+      "steep and steady decline"
+    ],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The answer is Unanswerable because it is a non-sequitur. The context does not mention Ba'at, and the answer does not logically follow from the context.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "572853e8ff5b5019007da18a",
+    "question": "UChicago claims to have what kind of learning experience compared to other universities? ",
+    "gold": [
+      "the most rigorous, intense",
+      "the most rigorous, intense"
+    ],
+    "generated_answer": "UChicago claims to have the most rigorous, intense learning experience.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "Chicago University is known for its rigorous academic programs and small class sizes, which provide students with a more intimate learning experience.",
+    "relevance_score": 0.6648
+  },
+  {
+    "id": "5a2c3ca9bfd06b001a5aea83",
+    "question": "Who took away the operating license from BSkyB?",
+    "gold": [],
+    "generated_answer": "Ofcom.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "BSkyB has no veto over the presence of channels on their EPG, with open access being an enforced part of their operating licence from Ofcom.",
+    "relevance_score": 0.1946
+  },
+  {
+    "id": "56e1b00ce3433e14004230a1",
+    "question": "In the determination of complexity classes, what are two examples of types of Turing machines?",
+    "gold": [
+      "probabilistic Turing machines, non-deterministic Turing machines",
+      "probabilistic Turing machines, non-deterministic Turing machines"
+    ],
+    "generated_answer": "Deterministic Turing machines and probabilistic Turing machines.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "Deterministic Turing machines and probabilistic Turing machines are both faithful to the context, as they are both used to define complexity classes that are equally powerful in principle.",
+    "relevance_score": 0.4911
+  },
+  {
+    "id": "57265e11708984140094c3be",
+    "question": "In 1979, during the oil crisis, what was the highest price of oil?",
+    "gold": [
+      "nearly $40 per barrel",
+      "nearly $40 per barrel",
+      "$40 per barrel",
+      "$40 per barrel",
+      "$40 per barrel"
+    ],
+    "generated_answer": "$40 per barrel.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.5,
+    "faithfulness_reasoning": "The world price, which had peaked during the 1979 energy crisis at nearly $40 per barrel, decreased to $40 per barrel.",
+    "relevance_score": 0.3616
+  },
+  {
+    "id": "5ad02de177cf76001a686d16",
+    "question": " How many years have non-imperialistic practices existed?",
+    "gold": [],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "571ccd9b5efbb31900334dfc",
+    "question": "How much is the sieve method of gas production used?",
+    "gold": [
+      "major method",
+      "increasingly",
+      "major method",
+      "increasingly"
+    ],
+    "generated_answer": "90% to 93% O2.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.9,
+    "faithfulness_reasoning": "The other major method of producing O2 involves passing a stream of clean, dry air through one bed of a pair of identical zeolite molecular sieves, which absorbs the nitrogen and delivers a gas stream that is 90% to 93% O2.",
+    "relevance_score": 0.2428
+  },
+  {
+    "id": "5ad40158604f3c001a3ffd0b",
+    "question": "Who did the Han Japanese want to help the Mongols fight?",
+    "gold": [],
+    "generated_answer": "Han Chinese and Khitan.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "There are no Han Chinese and Khitan defectors in the context.",
+    "relevance_score": 0.5183
+  },
+  {
+    "id": "5ad40582604f3c001a3ffe1b",
+    "question": " Who did Gegeen appoint as grand senator?",
+    "gold": [],
+    "generated_answer": "Baiju.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.0348
+  },
+  {
+    "id": "5a667761846392001a1e1c38",
+    "question": "Does packet switching charge a fee when no data is transferred?",
+    "gold": [],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "5730a314069b5314008321ee",
+    "question": "What was a similar view about the Asian continent called?",
+    "gold": [
+      "orientalism",
+      "orientalism",
+      "orientalism",
+      "orientalism",
+      "orientalism"
+    ],
+    "generated_answer": "Orientalism",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The ANSWER is not faithful to the CONTEXT, as it suggests a simplistic and stereotypical view of human nature, ignoring the complexities of cultural and geographical factors.",
+    "relevance_score": 0.5968
+  },
+  {
+    "id": "5ad3a16d604f3c001a3fe9e1",
+    "question": "When did colonial governors meet with General Edward Braddock about peace with the french?",
+    "gold": [],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "57273a465951b619008f8702",
+    "question": "What three things are needed for construction to take place?",
+    "gold": [
+      "planning,[citation needed] design, and financing",
+      "planning,[citation needed] design, and financing",
+      "planning,[citation needed] design, and financing and continues until the project is built"
+    ],
+    "generated_answer": "Planning, design, and financing.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "Construction is the process of constructing a building or infrastructure. Construction differs from manufacturing in that manufacturing typically involves mass production of similar items without a designated purchaser, while construction typically takes place on location for a known client.",
+    "relevance_score": 0.5692
+  },
+  {
+    "id": "5acfac7177cf76001a6857f9",
+    "question": "Who is the current Chairman of President Barack Obama's Council of Economic Advisors?",
+    "gold": [],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "5ad2676ed7d075001a429210",
+    "question": "How are the certain costs which are easy to avoid shared?",
+    "gold": [],
+    "generated_answer": "They are shared by everyone, such as the costs of housing, pensions, education and health care.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The answer does not match the context.",
+    "relevance_score": 0.5403
+  },
+  {
+    "id": "5ad02d3077cf76001a686cf6",
+    "question": "When imperialism does not impact social norms of a state, what is it called?",
+    "gold": [],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "5acfee8977cf76001a686568",
+    "question": " What was Zia-ul-Haq's non-official state ideology?",
+    "gold": [],
+    "generated_answer": "Islamization.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.2213
+  },
+  {
+    "id": "5ad4dd325b96ef001a10a4ac",
+    "question": "What occurs when antibodies will not bind to the patient's cells?",
+    "gold": [],
+    "generated_answer": "Type II hypersensitivity.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The answer is not faithful to the context. The context mentions Type I and IV hypersensitivity, but the answer only mentions Type II.",
+    "relevance_score": 0.3627
+  },
+  {
+    "id": "5ad0426c77cf76001a686f1d",
+    "question": "A 60-minute long \"Question Time\" takes place at what time?",
+    "gold": [],
+    "generated_answer": "12:30 p.m.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.3785
+  },
+  {
+    "id": "5ad24369d7d075001a4289ea",
+    "question": "What is the ground state of the O molecule referred to as?",
+    "gold": [],
+    "generated_answer": "triplet oxygen.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.3402
+  },
+  {
+    "id": "5ad3bb12604f3c001a3feebb",
+    "question": "How unsuccessful was the French revised efforts?",
+    "gold": [],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "5ad4ef8b5b96ef001a10a6bb",
+    "question": "What are higher doses of anti-inflammatory drugs used with?",
+    "gold": [],
+    "generated_answer": "Cytotoxic or immunosuppressive drugs such as methotrexate or azathioprine.",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.4458
+  },
+  {
+    "id": "5ad139b2645df0001a2d1292",
+    "question": "Which branch of the EU has had the least amount of influence on the development of Eu law?",
+    "gold": [],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.0
+  },
+  {
+    "id": "572fc8a904bcaa1900d76d1f",
+    "question": "What is set up to scrutinize private bills submitted by party outsiders?",
+    "gold": [
+      "type of committee",
+      "committee",
+      "committee"
+    ],
+    "generated_answer": "A further type of committee.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.8,
+    "faithfulness_reasoning": "A further type of committee.",
+    "relevance_score": 0.3495
+  },
+  {
+    "id": "571cac5d5efbb31900334dd3",
+    "question": "What type of process was involved the the depletion of the Sun's oxygen 16?",
+    "gold": [
+      "unknown",
+      "an unknown process",
+      "unknown",
+      "unknown",
+      "an unknown process"
+    ],
+    "generated_answer": "Unknown process",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "The analysis of the silicon wafer is not relevant to the question of the Sun's oxygen isotopes.",
+    "relevance_score": 0.2532
+  },
+  {
+    "id": "571094b7a58dae1900cd6a67",
+    "question": "How did the revocation restrict Huguenot travel?",
+    "gold": [
+      "prohibited emigration",
+      "prohibited emigration",
+      "prohibited emigration"
+    ],
+    "generated_answer": "The revocation forbade Protestant services, required education of children as Catholics, and prohibited emigration.",
+    "is_truly_unanswerable": false,
+    "predicted_unanswerable": false,
+    "faithfulness_score": 0.5,
+    "faithfulness_reasoning": "The revocation forbade Protestant services, required education of children as Catholics, and prohibited emigration.",
+    "relevance_score": 0.5056
+  },
+  {
+    "id": "5a8949463b2508001a72a5a2",
+    "question": "What are the points of quadratic objects?",
+    "gold": [],
+    "generated_answer": "Unanswerable",
+    "is_truly_unanswerable": true,
+    "predicted_unanswerable": true,
+    "faithfulness_score": 0.0,
+    "faithfulness_reasoning": "No answer exists in context.",
+    "relevance_score": 0.0
+  }
+]
